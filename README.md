@@ -1,5 +1,6 @@
 ## ST_BlueNRG-LP_LPS RADIO TX/RX example with FHSS
 Example of RADIO RX/TX using FHSS (Frequency-hopping spread spectrum) on BlueNRG-LP_LPS. And, This example was implemented based on BlueNRG-LP_LPS DK 1.5.0. And, Comfimed based on this DK version. You can see RADIO TX/RX wtih simple FHSS(Frequency hopping).
+
 (Download BlueNRG-LP_LPS DK: https://www.st.com/en/embedded-software/stsw-bnrglp-dk.html)
 
 
